@@ -6,7 +6,9 @@
   Customize the page that the chat bubble lives on
 */
 
-/* .voiceflow-chat {} */
+.voiceflow-chat {
+  margin: "100px";
+}
 
 /* .vfrc-launcher {} */
 
